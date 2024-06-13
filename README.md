@@ -1,0 +1,2 @@
+# gempa-bumi
+jedag jedug
